@@ -1,0 +1,2140 @@
+{
+  "sam_artists": [
+    {
+      "Artist": "2 Chainz",
+      "bio": "2 Chainz, born Tauheed Epps, is an influential rapper and songwriter hailing from College Park, Georgia. Known for his unique flow and energetic performances, 2 Chainz has made a significant mark in the hip-hop industry. While many of his songs, such as 'Lost Kings', 'Sam', and others, contain <span class='pir';>subtle social and cultural messages</span>, a large part of his discography also comprises braggadocio tracks with subtle messages sprinkled throughout. His work has <i>contributed to discussions on social consciousness and cultural significance within hip-hop.</i>",
+      "songs": [
+        "2 Dollar Bill",
+        "Feds Watching",
+        "Forgiven",
+        "Fork",
+        "Goin Thru It",
+        "I'm Not Crazy, Life Is",
+        "Lost Kings",
+        "Momma I Hit a Lick",
+        "Money in the Way",
+        "NCAA",
+        "Rule the World",
+        "Sam",
+        "Save Me",
+        "Sleep When You Die",
+        "Threat 2 Society",
+        "Vlad TV"
+      ],
+      "count": 16,
+      "eras": [
+        "2010+"
+      ],
+      "location": "College Park, Georgia",
+      "region": "South"
+    },
+    {
+      "Artist": "21 Savage",
+      "bio": "21 Savage is a British rapper known for his <i>distinct trap style</i> and introspective lyrics. Born in London, he moved to Atlanta at a young age and emerged as a prominent figure in the hip-hop scene. His music often reflects on his personal experiences, addressing topics like <i>violence</i>, <i>poverty</i>, and <b><span style='color: red';>social injustice</span></b>.",
+      "songs": [
+        "A Lot",
+        "Letter 2 My Momma",
+        "Nothing New"
+      ],
+      "count": 3,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Atlanta, Georgia",
+      "region": "South"
+    },
+    {
+      "Artist": "3rd Bass",
+      "bio": "3rd Bass was an American hip-hop group known for their witty and <span class='pir'>socially conscious</span> lyrics. Consisting of MC Serch, Prime Minister Pete Nice, and DJ Richie Rich, they rose to prominence in the late 1980s and early 1990s. Their music often tackled themes of racial inequality, politics, and cultural criticism.",
+      "songs": [
+        "Derilicts of Dialect",
+        "The Gas Face",
+        "No Master Plan No Master Race",
+        "No Static at All",
+        "Oval Office",
+        "Pop Goes the Weasel",
+        "Problem Child",
+        "Product of the Environment"
+      ],
+      "count": 8,
+      "eras": [
+        "1980s"
+      ],
+      "location": "",
+      "region": "North"
+    },
+    {
+      "Artist": "50 Cent",
+      "bio": "50 Cent is an American rapper and actor who gained popularity with his debut album 'Get Rich or Die Tryin'.' Born Curtis Jackson, he rose to prominence in the early 2000s with his gritty lyrics and captivating storytelling. Beyond his music career, 50 Cent has ventured into entrepreneurship and acting, showcasing his versatility and business acumen.",
+      "songs": [
+        "Hate It Or Love It"
+      ],
+      "count": 1,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Queens, New York",
+      "region": "North"
+    },
+    {
+      "Artist": "Akinyele",
+      "bio": "Akinyele is a provocative and controversial Hip Hop artist known for pushing boundaries with his explicit lyrics. His debut album 'Vagina Diner' gained attention for its daring content. Akinyele's music often sparks discussions about <span class='pir'>societal taboos</span> and <span class='pir'>challenges traditional norms</span>.",
+      "songs": [
+        "30 Days",
+        "Exercise"
+      ],
+      "count": 3,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Queens, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Beastie Boys",
+      "bio": "Beastie Boys were an American rap/rock group known for their energetic performances and genre-blending music. Consisting of Michael Diamond (Mike D), Adam Horovitz (Ad-Rock), and Adam Yauch (MCA), they emerged in the 1980s as pioneers of hip-hop and alternative music fusion. Their influential career spanned decades, leaving an indelible impact on the music industry.",
+      "songs": [
+        "Fight for Your Right (To Party!)",
+        "Sabotage"
+      ],
+      "count": 2,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "North"
+    },
+    {
+      "Artist": "Big Daddy Kane",
+      "bio": "Big Daddy Kane is an American rapper and actor known for his smooth delivery and influential contributions to hip-hop. With his <span class='pir'>charismatic stage presence</span> and intricate wordplay, he became one of the leading figures in the golden age of hip-hop in the late 1980s and early 1990s. His lyrical prowess and suave style influenced generations of artists.",
+      "songs": [
+        "Word to the Mother",
+        "Young, Gifted and Black"
+      ],
+      "count": 2,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Big Pun",
+      "bio": "Big Pun, whose real name was Christopher Rios, was a highly influential Puerto Rican-American rapper known for his exceptional lyricism and <span class='pir'>impactful storytelling</span>. He left a lasting legacy on the hip-hop community as one of the first Latino rappers to achieve mainstream success. Despite his untimely passing, his contributions to the genre continue to inspire and influence artists to this day.",
+      "songs": [
+        "100%",
+        "Beware",
+        "Twinz (Deep Cover'98)",
+        "You Ain't a Killer"
+      ],
+      "count": 4,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Bronx, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Biz Markie",
+      "bio": "Biz Markie, born Marcel Theo Hall, was a unique and influential figure in the hip-hop scene. Known for his playful style, he often infused powerful social and political messages into his music. One of his standout lines includes his mention of voting for Shirley Chisholm, signaling political awareness, and commenting on social welfare. His songs continue to resonate with listeners for their depth and entertainment value. <span class='pir'>Reagan is the Pres, but I voted for Shirley Chisholm</span>.",
+      "songs": [
+        "Nobody Beats the Biz",
+        "Chinese Food",
+        "Biz is Goin' Off",
+        "This is Something for the Radio",
+        "What Comes Around Goes Around",
+        "Vapors"
+      ],
+      "count": 6,
+      "eras": [
+        "1980s",
+        "1990s"
+      ],
+      "location": "New York, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Black Eyed Peas",
+      "bio": "Black Eyed Peas is an American musical group known for their eclectic blend of hip-hop, pop, and electronic music. Consisting of will.i.am (William James Adams Jr.), apl.de.ap (Allan Pineda Lindo), Taboo (Jaime Luis Gomez), and Fergie (Stacy Ann Ferguson), The group's music often carries <span class='pir'>socially conscious</span> messages and promotes <span class='pir'>positivity and unity</span>.",
+      "songs": [
+        "Just Can't Get Enough",
+        "Where is the Love"
+      ],
+      "count": 2,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Los Angeles, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Black Moon",
+      "bio": "Black Moon is an American hip hop group from Brooklyn, New York, formed in the early 1990s. The group consists of members Buckshot, 5 ft, and DJ Evil Dee. Known for their underground sound and <span class='pir'>contribution to the creation of hardcore hip-hop with a focus on social consciousness</span>, they are acclaimed for albums like 'Enta da Stage'.",
+      "songs": [
+        "How Many MC's...",
+        "I Got Cha Opin",
+        "Shit Iz Real",
+        "Two Turntables & A Mic",
+        "Buck 'Em Down",
+        "Reality"
+      ],
+      "count": 6,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Bone Thugs-N-Harmony",
+      "bio": "Bone Thugs-N-Harmony is an American hip-hop group known for their melodic harmonies and rapid-fire delivery. Formed in Cleveland, Ohio, they rose to prominence in the 1990s with hits like 'Tha Crossroads' and '1st of tha Month'. Their unique style and introspective lyrics made them <span class='pir'>influential figures</span> in the rap scene.",
+      "songs": [
+        "1st of the Month",
+        "Change the World",
+        "Tha Crossroads"
+      ],
+      "count": 3,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Cleveland, Ohio",
+      "region": "North"
+    },
+    {
+      "Artist": "Busta Rhymes",
+      "bio": "Busta Rhymes is an American rapper, singer, and actor known for his energetic performances and rapid-fire rhymes. With a career spanning several decades, he has released numerous chart-topping hits and collaborated with various artists. Busta Rhymes is celebrated for his <span class='pir'>dynamic flow and charismatic stage presence</span>.",
+      "songs": [
+        "Abandon Ship",
+        "Bad Dreams",
+        "Best I Can",
+        "Bleed the Same Blood",
+        "Decision",
+        "Deep Thought",
+        "Freedom",
+        "Genesis",
+        "How Much We Grew",
+        "In the Ghetto",
+        "Master Fard Muhammad",
+        "One",
+        "Satanic",
+        "Shoot for the Moon",
+        "Struttin' Like a G.O.D.",
+        "The Finish Line",
+        "The Purge",
+        "The Struggle Will Be Lost",
+        "They're Out to Get Me",
+        "Through the Storm",
+        "Till It's Gone",
+        "When Disaster Strikes",
+        "Why We Die"
+      ],
+      "count": 23,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Canibus",
+      "bio": "Canibus is an American rapper known for his intricate wordplay and lyrical depth. Emerging in the late 1990s, he gained attention for his technical skills and thought-provoking verses. Canibus's music often explores complex themes and showcases his intellectual approach to hip-hop.",
+      "songs": [
+        "Channel Zero",
+        "Nigganometry"
+      ],
+      "count": 2,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Jamaica, Queens, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Cardi B",
+      "bio": "Cardi B is an American rapper, songwriter, and actress who rose to fame with her chart-topping debut single 'Bodak Yellow'. Known for her charismatic personality and unapologetic lyrics, she has become one of the most successful female artists in the music industry. Cardi B's bold and confident style has made her a cultural icon.",
+      "songs": [
+        ""
+      ],
+      "count": 0,
+      "eras": [
+        "2010+"
+      ],
+      "location": "New York, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Chance the Rapper",
+      "bio": "Chancelor Bennett, better known by his stage name Chance the Rapper, is an American rapper, singer, songwriter, and record producer. He is known for his eclectic mix of hip hop, gospel, and soul music, as well as his <span class='pir';>socially conscious</span> lyrics.",
+      "songs": [
+        "Yah Know",
+        "Blessings",
+        "Cocoa Butter Kisses",
+        "Angels",
+        "Same Drugs",
+        "How Great Is Our God"
+      ],
+      "count": 6,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Chicago, Illinois",
+      "region": "North"
+    },
+    {
+      "Artist": "Childish Gambino",
+      "bio": "Childish Gambino, also known as Donald Glover, is a multi-talented artist who excels in music, acting, writing, and producing. With critically acclaimed albums like 'Awaken, My Love!' and the hit single 'This Is America', he has proven himself as an innovative and socially conscious artist. Childish Gambino's work often explores themes of race, identity, and cultural commentary.",
+      "songs": [
+        "3005",
+        "53.49",
+        "Earth: The Oldest Computer (The Last Night)",
+        "Feels Like Summer",
+        "Life: The Biggest Troll (Andrew Auernheimer)",
+        "Redbone",
+        "Sweatpants",
+        "That Power",
+        "This Is America"
+      ],
+      "count": 9,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Stone Mountain, Georgia",
+      "region": "East"
+    },
+    {
+      "Artist": "Common",
+      "bio": "Common is an American rapper, actor, and activist known for his introspective and socially conscious lyrics. With a career spanning over three decades, he has released acclaimed albums and collaborated with various artists. Common's music often delves into themes of love, self-reflection, and social issues.",
+      "songs": [
+        "A Song for Assata",
+        "Be",
+        "Black America Again",
+        "Faithful",
+        "Glory",
+        "I Used to Love H.E.R.",
+        "Letter to the Free",
+        "Retrospect for Life",
+        "Testify",
+        "The 6th Sense",
+        "The Believer",
+        "The Corner",
+        "The Dreamer",
+        "The Food",
+        "The People",
+        "U, Black Maybe"
+      ],
+      "count": 16,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Chicago, Illinois",
+      "region": "North"
+    },
+    {
+      "Artist": "Cypress Hill",
+      "bio": "Cypress Hill is an American hip-hop group hailing from South Gate, California. The group consists of members B-Real, Sen Dog, DJ Muggs, and Eric Bobo. Known for their distinctive sound, they emerged as pioneers of West Coast rap, blending elements of hip-hop with funk, rock, and reggae influences.<br><br>Their self-titled debut album released in 1991 achieved commercial success and critical acclaim. Over the years, the group has collaborated with various artists and consistently pushing the boundaries of rap music. Their music often explores themes of rebellion, urban life, and the <span class='pir'>struggles faced by marginalized communities</span>.",
+      "songs": [
+        "Hand On the Pump",
+        "How I Could Just Kill a Man",
+        "Insane in the Brain",
+        "Pigs",
+        "Rise Up",
+        "Tequila Sunrise"
+      ],
+      "count": 6,
+      "eras": [
+        "1990s"
+      ],
+      "location": "South Gate, California",
+      "region": "West"
+    },
+    {
+      "Artist": "De La Soul",
+      "bio": "De La Soul is an American hip-hop trio known for their eclectic and innovative approach to rap music. Formed in the late 1980s, they achieved critical acclaim with their debut album '3 Feet High and Rising'. De La Soul's unique sound, blending soulful samples, playful lyrics, and <span class='pir'>positive vibes</span>, has made them influential figures in alternative hip-hop.",
+      "songs": [
+        "Ghetoo Thang",
+        "Itsoweezee (HOT)",
+        "Me, Myself, and I",
+        "My Brother's a Basehead",
+        "Say No Go",
+        "Stakes is High",
+        "Who Do You Worship"
+      ],
+      "count": 7,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Amityville, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Digital Underground",
+      "bio": "Digital Underground was an American hip-hop group known for their innovative and funky sound. Led by Shock G (also known as Humpty Hump), they achieved mainstream success in the 1990s with hits like 'The Humpty Dance' and 'Doowutchyalike'. Digital Underground's music combined elements of funk, soul, and humor, making them influential figures in the hip-hop community.",
+      "songs": [
+        "No Nose Job",
+        "Same Song",
+        "Tie the Knot"
+      ],
+      "count": 3,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Oakland, California",
+      "region": "West"
+    },
+    {
+      "Artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "bio": "DJ Jazzy Jeff & The Fresh Prince, consisting of DJ Jazzy Jeff (Jeff Townes) and Will Smith, gained popularity in the late 1980s and early 1990s with their upbeat and playful hip-hop sound. Known for their hit singles 'Parents Just Don't Understand' and 'Summertime', they brought a fresh and lighthearted approach to rap music. Their collaboration paved the way for Will Smith's successful acting career.",
+      "songs": [
+        "Parents Just Don't Understand"
+      ],
+      "count": 1,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Philadelphia, Pennsylvania",
+      "region": "East"
+    },
+    {
+      "Artist": "Denzel Curry",
+      "bio": "Denzel Curry is an American rapper and songwriter known for his raw and introspective style. Emerging from the underground rap scene, he gained critical acclaim with his album 'TA13OO', which delves into themes of mental health, identity, and social issues. Denzel Curry's powerful delivery and thought-provoking lyrics have solidified his position as one of the most exciting voices in contemporary hip-hop.",
+      "songs": [
+        "BLACK BALLOONS",
+        "Clout Cobain",
+        "P.A.T.",
+        "SIRENS",
+        "Speedboat",
+        "Ultimate"
+      ],
+      "count": 6,
+      "eras": [
+        "2010+"
+      ],
+      "location": " Carol City, Florida",
+      "region": "South"
+    },
+    {
+      "Artist": "DMX",
+      "bio": "DMX, also known as Dark Man X, was a prominent American rapper and actor. He gained immense popularity in the late 1990s and early 2000s with his intense and raw lyrical style. DMX's music often delved into his <span style='color: red';><b>personal struggles, faith, and the challenges</b></span> faced by the urban community. One of his unique qualities was his ability to deliver heartfelt storytelling through his music.",
+      "songs": [
+        "Slippin'",
+        "Who We Be",
+        "Where the Hood At",
+        "Stop Being Greedy",
+        "The Omen"
+      ],
+      "count": 5,
+      "eras": [
+        "1990s",
+        "1990s"
+      ],
+      "location": "Yonkers, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Don Trip",
+      "bio": "Don Trip (Christopher Donnie Wallace Jr) is a Memphis-based Hip Hop artist known for his introspective lyrics and storytelling abilities. He gained recognition for his mixtapes and collaborations with fellow Memphis rapper Starlito. Don Trip's music often explores personal struggles, street life, and the harsh realities of his environment.",
+      "songs": [
+        "Hold Back Tears",
+        "Letter to My Son",
+        "Letter to My Son Part 2",
+        "Prolly",
+        "The Life"
+      ],
+      "count": 5,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Memphis, Tennessee",
+      "region": "South"
+    },
+    {
+      "Artist": "Doug E. Fresh",
+      "bio": "Doug E. Fresh is an American rapper, beatboxer, and producer known for his exceptional beatboxing skills and energetic performances. Often referred to as the 'Human Beatbox', he popularized beatboxing as an art form and influenced generations of artists. With hits like 'The Show' and 'La Di Da Di', Doug E. Fresh contributed significantly to the development of hip-hop culture.",
+      "songs": [
+        "Ain't No Half-Steppin",
+        "Play This Only At Night"
+      ],
+      "count": 2,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Barbados, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "DJ Quik",
+      "bio": "DJ Quik is an American rapper, record producer, and DJ known for his smooth and funky production style. With his distinctive G-funk sound and laid-back delivery, he became a prominent figure in West Coast hip-hop. DJ Quik's musical versatility and ability to blend different genres have earned him recognition as one of the pioneers of the West Coast rap scene.",
+      "songs": [
+        "Black Mercedes",
+        "Fandango",
+        "Nobody",
+        "Nobody Does It Better",
+        "You'z a Ganxta"
+      ],
+      "count": 5,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Compton, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Drake",
+      "bio": "Drake is a Canadian rapper, singer, songwriter, and actor who has achieved tremendous success in the music industry. With chart-topping hits like 'Hotline Bling', 'God's Plan', and 'In My Feelings', he has become one of the biggest artists of his generation. Known for his introspective lyrics and catchy melodies, Drake has influenced the modern sound of hip-hop and R&B.",
+      "songs": [
+        ""
+      ],
+      "count": 0,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Ontario, Canada",
+      "region": "North"
+    },
+    {
+      "Artist": "El-P",
+      "bio": "El-P, whose real name is Jaime Meline, is an American rapper, record producer, and co-founder of the hip-hop collective Company Flow. Known for his complex and politically charged lyrics, El-P is considered one of the pioneers of underground and alternative hip-hop. As a solo artist, he has released critically acclaimed albums such as 'Fantastic Damage' and 'I'll Sleep When You're Dead.' El-P's innovative production style and thought-provoking content have solidified his place as a socially conscious and influential figure in hip-hop. El-P continues to inspire and challenge audiences with his unique approach to music and activism.",
+      "songs": [
+        "Deep Space 9mm",
+        "Stepfather Factory",
+        "The Full Retard",
+        "Drones Over BKLYN",
+        "Cancer 4 Cure",
+        "Tasmanian Pain Coaster"
+      ],
+      "count": 6,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Eminem",
+      "bio": "Eminem, also known as Marshall Mathers or Slim Shady, is an American rapper, songwriter, and record producer. With his exceptional lyrical skills, intense delivery, and controversial subject matter, he became one of the most successful and influential artists in hip-hop history. Eminem's albums, including 'The Marshall Mathers LP' and 'The Eminem Show', have garnered critical acclaim and commercial success, solidifying his place as a rap icon.",
+      "songs": [
+        "Lose Yourself",
+        "Not Afraid",
+        "Stan",
+        "Toy Soldier",
+        "White America"
+      ],
+      "count": 5,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Detroit, Michigan",
+      "region": "North"
+    },
+    {
+      "Artist": "EPMD",
+      "bio": "EPMD, which stands for Erick and Parrish Making Dollars, is an American hip-hop duo consisting of Erick Sermon and Parrish Smith. They emerged in the late 1980s and gained recognition for their innovative production style and witty lyrics. With hits like 'You Gots to Chill' and 'Strictly Business', EPMD became influential figures in East Coast hip-hop.",
+      "songs": [
+        "Crossover",
+        "You Gots to Chill"
+      ],
+      "count": 2,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brentwood New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Eric B & Rakim",
+      "bio": "Eric B & Rakim were an American hip-hop duo known for their groundbreaking contributions to the genre. Comprised of Eric B (Eric Barrier) as the DJ and Rakim as the MC, they elevated rap music with their intricate lyricism and smooth delivery. Their albums, including 'Paid in Full' and 'Follow the Leader', are regarded as classics in hip-hop history. They emerged in the late 1980s and are known for their innovative and influential contributions to the genre. Rakim's intricate rhyme schemes and smooth flow, combined with Eric B.'s skillful production, revolutionized hip hop and set a new standard for lyricism and musicality. With their <span style='color: red'><b>timeless hits</b></span>, they continue to inspire generations of hip hop artists",
+      "songs": [
+        "Don't Sweat the Technique",
+        "Follow the Leader",
+        "In the Ghetto",
+        "Mahogany",
+        "Microphone Fiend",
+        "Paid in Full",
+        "Teach the Children"
+      ],
+      "count": 7,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Long Island, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Fabolous",
+      "bio": "Fabolous, born John David Jackson, is an American rapper and songwriter from Brooklyn, New York. He gained popularity for his smooth delivery and clever wordplay. Fabolous has released several successful albums and is known for his socially conscious and culturally relevant songs.",
+      "songs": [
+        "My Time",
+        "Breathe",
+        "Life Is So Exciting"
+      ],
+      "count": 3,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Fat Boys",
+      "bio": "Fat Boys were an American hip-hop trio known for their lighthearted and comedic approach to rap music. Comprised of Prince Markie Dee, Kool Rock-Ski, and Buff Love (formerly known as The Human Beatbox), they achieved mainstream success in the 1980s. With their playful rhymes and beatboxing skills, Fat Boys left a lasting impact on the rap scene.",
+      "songs": [
+        "Big & Beautiful",
+        "Don't Be Stupid",
+        "Jailhouse Rap",
+        "Protect Yourself / My Nuts",
+        "The Fat Boys at Forty"
+      ],
+      "count": 5,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Fearless Four",
+      "bio": "Fearless Four was an American hip-hop group known for their energetic performances and contributions to the early hip-hop movement. Comprised of Great Peso, Devastating Tito, Mighty Mike C, and Krazy Eddie, they emerged in the late 1970s and gained popularity with their dynamic stage shows and rap battles. Fearless Four played a significant role in shaping the foundation of hip-hop culture.",
+      "songs": [
+        "Problems of the World Today"
+      ],
+      "count": 1,
+      "eras": [
+        "1980s"
+      ],
+      "location": "New York, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Fugees",
+      "bio": "Fugees, comprised of Wyclef Jean, Lauryn Hill, and Pras Michel, were an American hip-hop group known for their fusion of rap, R&B, and reggae. They achieved massive success in the 1990s with their album 'The Score', featuring hits like 'Killing Me Softly' and 'Ready or Not'. The Fugees showcased their diverse talents and conscious lyricism, leaving a lasting impact on the music industry.",
+      "songs": [
+        "Family Business",
+        "Fugee-La",
+        "Ghetto Misfortunes Wealth",
+        "Ready or Not",
+        "Temple",
+        "The Mask",
+        "The Score",
+        "Vocab"
+      ],
+      "count": 8,
+      "eras": [
+        "1990s"
+      ],
+      "location": "South Orange, New Jersey",
+      "region": "East"
+    },
+    {
+      "Artist": "Future",
+      "bio": "Nayvadius DeMun Wilburn, better known by his stage name Future, is an American rapper, singer, songwriter, and record producer. He is known for his mumble-styled vocals and prolific output, having released a number of mixtapes and albums since his debut in 2010.",
+      "songs": [
+        "Codeine Crazy",
+        "March Madness",
+        "Feds Watching",
+        "Life Is Good",
+        "Mask Off"
+      ],
+      "count": 5,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Atlanta, Georgia",
+      "region": "South"
+    },
+    {
+      "Artist": "Gang Starr",
+      "bio": "Gang Starr was an American hip-hop duo consisting of Guru and DJ Premier. Known for their jazz-influenced production and intelligent lyrics, they became one of the most respected and influential groups in hip-hop. With albums like 'Step in the Arena' and 'Moment of Truth', Gang Starr's music showcased their dedication to the art form and their commitment to preserving the essence of true hip-hop.",
+      "songs": [
+        "DWYCK",
+        "Just To Get a Rep",
+        "Mass Appeal"
+      ],
+      "count": 3,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Grandmaster Flash and the Furious Five",
+      "bio": "Grandmaster Flash and the Furious Five were an American hip-hop group known for their pioneering contributions to the genre. Led by Grandmaster Flash, they played a pivotal role in the development of turntablism and were one of the first rap groups to gain mainstream success. With hits like 'The Message' and 'White Lines (Don't Don't Do It)', they addressed social issues and set the stage for future rap artists.",
+      "songs": [
+        "Birthday Party",
+        "Freedom",
+        "New York, New York",
+        "The Message",
+        "White Lines"
+      ],
+      "count": 5,
+      "eras": [
+        "1980s"
+      ],
+      "location": "South Bronx, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Gunna",
+      "bio": "Gunna, also known as Sergio Giavanni Kitchens, is an American rapper and songwriter hailing from Atlanta, Georgia. He gained recognition in the hip hop scene with his melodic style and unique vocal delivery. Gunna has collaborated with various artists and is known for his trap-infused sound and introspective lyrics.",
+      "songs": [
+        ""
+      ],
+      "count": 0,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Atlanta, Georgia",
+      "region": "South"
+    },
+    {
+      "Artist": "Heavy D & the Boyz",
+      "bio": "Heavy D & the Boyz were an American hip-hop group led by rapper Heavy D. Known for their upbeat and danceable tracks, they achieved commercial success in the late 1980s and 1990s. With hits like 'Now That We Found Love' and 'Is It Good to You', Heavy D & the Boyz brought a unique blend of rap, R&B, and dance music to the mainstream.",
+      "songs": [
+        "Black Coffee",
+        "Don't Curse",
+        "Self-Destruction"
+      ],
+      "count": 3,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Mount Vernon, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Ice Cube",
+      "bio": "Ice Cube, born O'Shea Jackson, is an American rapper, actor, and filmmaker. As a member of the influential group N.W.A, he played a pivotal role in shaping gangsta rap and addressing social issues in his lyrics. Ice Cube's solo career brought him further success with albums like 'AmeriKKKa's Most Wanted' and 'The Predator'. He has since become a prominent figure in both the music and film industries.",
+      "songs": [
+        "Black Korea",
+        "Check Yo Self",
+        "Child Support",
+        "F*ck tha Police",
+        "It Was a Good Day"
+      ],
+      "count": 5,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Los Angeles, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Ice-T",
+      "bio": "Ice-T is an American rapper, actor, and producer who has made significant contributions to hip-hop and the entertainment industry. Known for his gritty and raw lyrics, he gained recognition with tracks like '6 in the Mornin' and 'Colors'. Ice-T's versatility as an artist extends to his acting career, where he has starred in various films and television shows.",
+      "songs": [
+        "6 'N the Mornin'",
+        "Colors",
+        "Freedom of Speech",
+        "I'm Your Pusher",
+        "Lethal Weapon",
+        "New Jack Hustler",
+        "O.G. Original Gangster"
+      ],
+      "count": 7,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Los Angeles, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Jay-Z",
+      "bio": "Jay-Z, born Shawn Carter, is an American rapper, songwriter, and entrepreneur. With his exceptional wordplay and business acumen, he has become one of the most successful and influential artists in hip-hop. Jay-Z's albums, including 'The Blueprint' and 'The Black Album', are regarded as classics in the genre. Beyond music, he has ventured into various business endeavors, making him a powerful figure in the entertainment industry.",
+      "songs": [
+        "99 Problems",
+        "Hard Knock Life",
+        "No Church in the Wild",
+        "The Story of O.J."
+      ],
+      "count": 4,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "J-Cole",
+      "bio": "J-Cole is an American rapper, singer, and producer known for his introspective lyrics and storytelling abilities. Rising to prominence with his mixtapes and debut album 'Cole World: The Sideline Story', he has since released critically acclaimed projects that tackle social issues and personal experiences. J-Cole's music resonates with audiences for its honesty and thought-provoking content.",
+      "songs": [
+        "1985",
+        "Be Free",
+        "Crooked Smile",
+        "Firing Squad",
+        "Lost Ones",
+        "Middle Child",
+        "Neighbors",
+        "t h e . c l i m b . b a c k",
+      ],
+      "count": 8,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Fayetteville, North Carolina",
+      "region": "South"
+    },
+    {
+      "Artist": "Joey Badass",
+      "bio": "Joey Badass, born Jo-Vaughn Virginie Scott, is an American rapper, singer, songwriter, and actor. Raised in Brooklyn, New York, he became known for his unique style and socially conscious lyrics. In his work, Joey addresses various societal issues, such as racial inequality, politics, and self-awareness <span class='pir';></span>.",
+      "songs": ["Babylon", "Black Beetles", "Eulogy", "For My People", "Good Morning Amerikkka", "Head High", "Land of the Free", "Righteous Minds", "Temptation"],
+      "count": 9,
+      "eras": ["2010+"],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Joyner Lucas",
+      "bio": "Joyner Lucas is a highly skilled rapper known for his thought-provoking and introspective lyrics. His songs often address social and political issues, shedding light on topics such as racism, mental health, and personal struggles. He uses his music as a platform to spark conversations and create awareness about important societal matters.",
+      "songs": [
+        "I'm Not Racist",
+        "Devil's Work",
+        "ISIS (featuring Logic)",
+        "Frozen",
+        "I Love"
+      ],
+      "count": 5,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Worcester, Massachusetts",
+      "region": "East"
+    },
+    {
+      "Artist": "Juice Wrld",
+      "bio": "Juice Wrld, whose real name is Jarad Higgins, was an American rapper, singer, and songwriter. Known for his melodic style and emotionally raw lyrics, Juice Wrld gained widespread recognition for his ability to seamlessly blend elements of hip hop and rock music. His music often delved into themes of mental health, heartbreak, and the struggles of fame, resonating with a generation of listeners.",
+      "songs": [
+        "Lucid Dreams",
+        "Legends",
+        "Robbery",
+        "Wishing Well"
+      ],
+      "count": 4,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Chicago, Illinois",
+      "region": "North"
+    },
+    {
+      "Artist": "Jungle Brothers",
+      "bio": "Jungle Brothers are an American hip-hop group known for their eclectic and innovative style. As pioneers of the Native Tongues collective, they infused jazz, funk, and Afrocentric influences into their music. With albums like 'Straight Out the Jungle' and 'Done by the Forces of Nature', Jungle Brothers pushed boundaries and expanded the sonic possibilities of hip-hop.",
+      "songs": [
+        "Black is Black",
+        "Black Woman",
+        "Breathe Don't Stop",
+        "Straight Out the Jungle",
+        "What 'U' Waitin' '4'?"
+      ],
+      "count": 5,
+      "eras": [
+        "1980s"
+      ],
+      "location": "New York, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Just-Ice",
+      "bio": "Just-Ice is an American rapper known for his aggressive and powerful delivery. A part of the early hip-hop scene in the 1980s, he gained recognition with his debut album 'Back to the Old School'. Just-Ice's commanding presence and hard-hitting lyrics made him a notable figure in the development of hardcore rap and street-oriented hip-hop.",
+      "songs": [
+        "Freedom of Speech",
+        "Going Way Back",
+        "Latoya",
+        "Moshitup"
+      ],
+      "count": 4,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Kanye West",
+      "bio": "Kanye West is an American rapper, producer, and fashion designer known for his innovative and genre-defying music. With critically acclaimed albums like 'The College Dropout', 'Late Registration', and 'My Beautiful Dark Twisted Fantasy', he has established himself as one of the most influential and controversial figures in hip-hop. Kanye West's artistic vision, outspoken personality, and boundary-pushing creativity have left a lasting impact on the music industry.",
+      "songs": [
+        "All Falls Down",
+        "Diamonds from Sierra Leone",
+        "Heard Em Say",
+        "Hey Mama",
+        "Jesus is Lord",
+        "Jesus Walks",
+        "New Slaves",
+        "No Church in the Wild",
+        "Selah",
+        "Spaceship",
+        "Ultralight Beam",
+        "Water",
+        "Who Will Survive In America",
+        "Ye vs. The People"
+      ],
+      "count": 14,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Chicago, Illinois",
+      "region": "North"
+    },
+    {
+      "Artist": "Kendrick Lamar",
+      "bio": "Kendrick Lamar is an American rapper and songwriter hailed for his lyrical prowess and socially conscious themes. With albums like 'good kid, m.A.A.d city', 'To Pimp a Butterfly', and 'DAMN.', he has garnered critical acclaim and commercial success. Kendrick Lamar's thought-provoking lyrics, intricate storytelling, and poetic style have solidified his position as one of the most important voices in modern hip-hop.",
+      "songs": [
+        "Alright",
+        "Complexion (A Zulu Love)",
+        "DNA",
+        "F*ck Your Ethnicity",
+        "FEAR",
+        "HiiiPower",
+        "How Much a Dollar Cost",
+        "i",
+        "King Kunta",
+        "Ronald Reagan Era (His Evils)",
+        "The Blacker the Berry",
+        "United in Grief"
+      ],
+      "count": 12,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Compton, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Kenny Mason",
+      "bio": "Kenny Mason is an American rapper, singer, and songwriter known for his versatile style and introspective lyrics. Blending elements of rap, rock, and alternative music, he has garnered attention for his unique sound and artistic vision. Kenny Mason's music explores personal struggles, societal issues, and existential themes, showcasing his ability to convey depth and emotion through his music.",
+      "songs": [
+        "Angels Calling",
+        "Handles",
+        "Hit",
+        "Metal Wings",
+        "PTSD"
+      ],
+      "count": 5,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Atlanta, Georgia",
+      "region": "South"
+    },
+    {
+      "Artist": "Kid 'n Play",
+      "bio": "Kid 'n Play were an American hip-hop duo consisting of Christopher Reid (Kid) and Christopher Martin (Play). They gained popularity in the late 1980s and early 1990s with their upbeat and playful tracks. Known for their dance moves and comedic chemistry, Kid 'n Play brought a fun and energetic vibe to the rap scene and left a mark on the hip-hop culture of the time.",
+      "songs": [
+        "Ain't Gonna Hurt Nobody",
+        "Bill's at the Door",
+        "Face the Nation",
+        "Foreplay",
+        "It's Alright Y'All",
+        "Last Night",
+        "Next Question",
+        "Slippin'"
+      ],
+      "count": 8,
+      "eras": [
+        "1980s"
+      ],
+      "location": "New York, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Killer Mike",
+      "bio": "Killer Mike is an American rapper, activist, and entrepreneur known for his socially conscious lyrics and powerful delivery. With his distinctive voice and thought-provoking verses, he has garnered critical acclaim for albums like 'R.A.P. Music' and 'Run the Jewels'. Killer Mike's music addresses systemic issues, political commentary, and personal experiences, making him a prominent voice in contemporary hip-hop.",
+      "songs": [
+        "Anywhere but Here",
+        "Don't Die",
+        "Don't Let the Devil",
+        "Exit 9",
+        "Follow Your Dreams",
+        "Ghetto Gospel",
+        "God in the Building II",
+        "High and Holy",
+        "Motherless",
+        "NRICH",
+        "Reagan",
+        "Run",
+        "Scared Straight",
+        "Scientists and Engineers",
+        "Shed Tears",
+        "Slammer",
+        "Something for Junkies",
+        "Spaceship Views",
+        "That's Life"
+      ],
+      "count": 19,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Atlanta, Georgia",
+      "region": "South"
+    },
+    {
+      "Artist": "Kodak Black",
+      "bio": "Kodak Black is an American rapper and songwriter known for his raw and emotive style. Rising to prominence with hits like 'Tunnel Vision' and 'Zeze', he has made a significant impact on the trap music scene. Kodak Black's music often reflects his experiences growing up in Florida and tackles themes of street life, struggle, and personal introspection.",
+      "songs": [
+        "Calling My Spirit",
+        "Tunnel Vision"
+      ],
+      "count": 2,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Pompano Beach, Florida",
+      "region": "South"
+    },
+    {
+      "Artist": "Kool G Rap",
+      "bio": "Kool G Rap, born Nathaniel Thomas Wilson, is a highly influential rapper from Queens, New York. Known for his complex lyrics and gritty storytelling, he is considered a pioneer of hardcore rap and mafioso rap. His <span class='pir';>socially conscious themes often revolve around street life, social inequality, and personal struggles.</span>",
+      "songs": [
+        "Erase Racism",
+        "For da Brothaz",
+        "Ghetto Knows",
+        "Good Die Young",
+        "Ill Street Blues",
+        "My Life",
+        "On the Run",
+        "Riker's Island",
+        "Road to the Riches",
+        "Sad",
+        "Streets of New York",
+        "The Streets"
+      ],
+      "count": 11,
+      "eras": [
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "location": "Queens, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Kool Moe Dee",
+      "bio": "Kool Moe Dee is an American rapper, actor, and author known for his pioneering contributions to hip-hop. As a member of the influential group Treacherous Three, he helped shape the early rap scene. With solo hits like 'Wild Wild West' and 'How Ya Like Me Now', Kool Moe Dee showcased his confident delivery and intricate rhymes, establishing himself as a rap legend.",
+      "songs": [
+        "Go See the Doctor",
+        "Rise 'N' Shine",
+        "Self-Destruction",
+        "Wild Wild West"
+      ],
+      "count": 4,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Manhattan, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "KRS-One",
+      "bio": "KRS-One, also known as The Teacha, is an American rapper and activist known for his thought-provoking lyrics and socially conscious messages. As a founding member of Boogie Down Productions, he played a crucial role in the development of conscious rap and politically charged hip-hop. KRS-One's music addresses issues such as racism, inequality, and the power of knowledge, making him a respected figure in the genre.",
+      "songs": [
+        "100 Guns",
+        "13 and Good",
+        "30 Cops or More",
+        "Beef",
+        "Black Black Black",
+        "Black Cop",
+        "Blackman in Effect",
+        "Boom Bye Bye",
+        "Build and Destroy",
+        "Don't Fall For It",
+        "Drug Dealer",
+        "Duck Down",
+        "Edutainment",
+        "Free (The Book Song)",
+        "Ghetto Music",
+        "House Niggas",
+        "Illegal Business",
+        "Jah Rulez",
+        "Love's Gonna Get'cha (Material Love)",
+        "Murder We Just Saw",
+        "My Philosophy",
+        "Open Your I",
+        "Organize",
+        "Poisonous Products",
+        "Questions and Answers",
+        "Self-Destruction",
+        "Sex and Violence",
+        "Sound of Da Police",
+        "Stop the Violence",
+        "T'Cha - T'Cha",
+        "The Eye Opener",
+        "The Racist",
+        "The Real Holy Place",
+        "Turn The Volume Up",
+        "We Are The Gods",
+        "Who Are The Pimps?",
+        "Who Protects Us From You",
+        "Who You Are",
+        "Why Is That?",
+        "World Peace",
+        "You Must Learn"
+      ],
+      "count": 41,
+      "eras": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010+"
+      ],
+      "location": "The Bronx, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Kurtis Blow",
+      "bio": "Kurtis Blow is an American rapper, singer, and record producer who played a significant role in popularizing rap music in the early days of the genre. With hits like 'The Breaks' and 'Basketball', he became one of the first commercially successful rappers. Kurtis Blow's contributions to hip-hop include his charismatic delivery, innovative rhymes, and his role in establishing rap as a viable form of music.",
+      "songs": [
+        "America",
+        "Basketball",
+        "If I Ruled the World",
+        "The Breaks"
+      ],
+      "count": 3,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Harlem, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Lauryn Hill",
+      "bio": "Lauryn Hill is an American singer, rapper, and songwriter known for her powerful vocals and introspective lyrics. Rising to fame as a member of the Fugees, she achieved critical acclaim with her solo album 'The Miseducation of Lauryn Hill'. Lauryn Hill's music blends elements of hip-hop, soul, and R&B, and her passionate performances have solidified her as one of the most influential artists of her generation.",
+      "songs": [
+        "Doo Wop (That Thing)",
+        "Every Ghetto, Every City",
+        "Everything is Everything",
+        "Final Hour",
+        "Forgive Them Father",
+        "To Zion"
+      ],
+      "count": 6,
+      "eras": [
+        "1990s"
+      ],
+      "location": "South Orange, New Jersey",
+      "region": "East"
+    },
+    {
+      "Artist": "Lil Boosie",
+      "bio": "Nayvadius DeMun Wilburn, better known by his stage name Lil Boosie, is an American rapper, singer, songwriter, and record producer. He is known for his mumble-styled vocals and prolific output, having released a number of mixtapes and albums since his debut in 2010.",
+      "songs": [
+        "Black Heaven",
+        "Cocaine Fever",
+        "Everything",
+        "Get Me Outta Here",
+        "Heartless Hearts",
+        "I Hope You Make It",
+        "I Testify",
+        "Like A Man",
+        "Long Journey",
+        "Me & Mama",
+        "My Pain Runs Deep",
+        "Motherless Child",
+        "Real Friends",
+        "True Soldier",
+        "Wrong Role Model",
+        "We Gonna Miss You",
+        "Window of My Eyes",
+        "You Don't Know Me Like That"
+      ],
+      "count": 18,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Baton Rouge, Louisiana",
+      "region": "South"
+    },
+    {
+      "Artist": "Lil Jon",
+      "bio": "Lil Jon, born Jonathan Smith, is a renowned rapper, producer, and DJ. He rose to prominence in the early 2000s with his energetic and infectious crunk sound. Known for his distinctive ad-libs and commanding stage presence, Lil Jon became a key figure in the crunk movement, leaving an indelible mark on hip hop culture. With a string of chart-topping hits and collaborations, he continues to be a celebrated artist in the industry.",
+      "songs": [
+        "Hard Times",
+        "I Am American",
+        "Put Your Hood Up",
+        "Read a Book",
+        "Rep Yo City"
+      ],
+      "count": 5,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Atlanta, Georgia",
+      "region": "South"
+    },
+    {
+      "Artist": "Lil Uzi Vert",
+      "bio": "Lil Uzi Vert is an American rapper and songwriter known for his unique style and energetic performances. With his melodic flows and introspective lyrics, he has gained popularity with hits like 'XO Tour Llif3' and 'Money Longer'. Lil Uzi Vert's music bridges the gap between rap and rock, showcasing his versatility and pushing the boundaries of contemporary hip-hop.",
+      "songs": [
+        "Dark Queen",
+        "Money Longer",
+        "The Way Life Goes",
+        "XO Tour Lif3"
+      ],
+      "count": 4,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Philadelphia, Pennsylvania",
+      "region": "East"
+    },
+    {
+      "Artist": "Lil Wayne",
+      "bio": "Lil Wayne, born Dwayne Michael Carter Jr., is an American rapper, singer, and songwriter. With his distinctive voice, rapid-fire delivery, and prolific output, he has become one of the most successful and influential artists in hip-hop. Lil Wayne's albums, including 'Tha Carter III' and 'Tha Carter IV', have received critical acclaim, and his lyrical dexterity and wordplay have solidified his status as a rap icon.",
+      "songs": [
+        "Georgia Bush",
+        "London Roads",
+        "DontGetIt",
+        "Open Letter",
+        "Tie My Hands"
+      ],
+      "count": 5,
+      "eras": [
+        "1990s"
+      ],
+      "location": "New Orleans, Louisiana",
+      "region": "South"
+    },
+    {
+      "Artist": "LL Cool J",
+      "bio": "LL Cool J, born James Todd Smith, is an American rapper, actor, and entrepreneur. Known for his smooth delivery and charismatic persona, he gained prominence in the 1980s and 1990s with hits like 'I Need Love' and 'Mama Said Knock You Out'. LL Cool J's versatile style and crossover success have made him a legendary figure in hip-hop, and his longevity in the industry is a testament to his talent and versatility.",
+      "songs": [
+        "Crossroads",
+        "Illegal Search",
+        "Mr. President",
+        "The Power of God"
+      ],
+      "count": 4,
+      "eras": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010+"
+      ],
+      "location": "Bay Shore, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "The Lox",
+      "bio": "The Lox is an American hip-hop group consisting of Jadakiss, Styles P, and Sheek Louch. Known for their gritty lyrics and raw delivery, they emerged in the late 1990s as part of the East Coast rap scene. The Lox's music reflects the realities of street life and addresses <span class='pir'>social issues</span>, showcasing their lyrical skill and capturing the essence of hardcore rap.",
+      "songs": [
+        "Dope Money",
+        "Locked Up",
+        "Why"
+      ],
+      "count": 3,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Yonkers, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Mac Dre",
+      "bio": "Mac Dre was a highly influential rapper from Vallejo, California. He played a significant role in popularizing the hyphy movement, a subgenre of hip hop characterized by its energetic and upbeat sound. Mac Dre's music often incorporated witty wordplay, humorous lyrics, and storytelling, which endeared him to his fans. Tragically, he was murdered in 2004, but his legacy continues to inspire artists in the Bay Area and beyond.",
+      "songs": [
+        "Thizzle Dance",
+        "Feelin' Myself",
+        "Thizzle Washington",
+        "Punk Police",
+        "Genie of the Lamp",
+        "Dreganomics"
+      ],
+      "count": 6,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Oakland, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Main Source",
+      "bio": "Main Source is a legendary hip hop group formed in 1989. Composed of members Large Professor, Sir Scratch, and K-Cut, they are known for their innovative production and thought-provoking lyrics. Their music often addresses social issues and explores the African-American experience.",
+      "songs": [
+        "Just Hangin' Out",
+        "Live at the BBQ"
+      ],
+      "count": 2,
+      "eras": [
+        "1990s"
+      ],
+      "location": "New York, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "MC Shan",
+      "bio": "MC Shan (Shawn Moltke) is an American rapper and hip-hop artist known for his contributions to the genre during the 1980s and 1990s. He was a key figure in the early days of hip-hop and gained popularity with his storytelling and lyrical skills. MC Shan's music often addressed <span class='pir'>social issues</span> and <span class='pir'>street life</span>, making him a socially conscious and culturally relevant artist during his era.",
+      "songs": [
+        "The Bridge",
+        "Juice Crew Law",
+        "I Pioneered This",
+        "Project 'Ho",
+        "Kill That Noise",
+        "Cocaine"
+      ],
+      "count": 6,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Queensbridge, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "MF DOOM",
+      "bio": "MF DOOM, also known as Daniel Dumile, started his career with the group 3rd Bass before embarking on his solo journey. He quickly gained recognition for his highly influential and enigmatic persona in hip hop. With his signature mask and intricate wordplay, he captivated audiences and gained a devoted following. MF DOOM's lyrical prowess and innovative production made him a revered artist in the underground rap scene. His impact on the genre is felt through his thought-provoking lyrics, unique storytelling, and boundary-pushing artistry.",
+      "songs": [
+        "Doomsday",
+        "Accordion",
+        "Rapp Snitch Knishes",
+        "All Caps",
+        "Rhymes Like Dimes",
+        "One Beer",
+        "Gazzillion Ear"
+      ],
+      "count": 7,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Long Island, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Missy Elliott",
+      "bio": "Missy Elliott is an American rapper, singer, songwriter, and producer known for her innovative and boundary-pushing music. With her unique style and futuristic visuals, she has become one of the most influential figures in hip-hop and R&B. Missy Elliott's hits like 'Get Ur Freak On', 'Work It', and 'Lose Control' showcase her unmatched creativity, captivating performances, and empowering lyrics.",
+      "songs": [
+        "Pass That Dutch"
+      ],
+      "count": 1,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Portsmouth, Virginia",
+      "region": "South"
+    },
+    {
+      "Artist": "Mobb Deep",
+      "bio": "Mobb Deep was an American hip-hop duo consisting of Havoc and Prodigy. Emerging in the 1990s, they became synonymous with gritty, street-oriented rap. With albums like 'The Infamous' and 'Hell on Earth', Mobb Deep's music provided a <span class='pir'>raw and unfiltered depiction of life in the inner city</span>. Their dark and introspective lyrics, combined with haunting production, have left a lasting impact on the rap genre.",
+      "songs": [
+        "Drink Away the Pain (Situations)",
+        "G.O.D. Pt. III",
+        "Give Up the Goods (Just Step)",
+        "Hell on Earth (Front Lines)",
+        "Quiet Storm",
+        "Shook Ones Pt. II",
+        "Survival of the Fittest",
+        "Temperature's Rising",
+        "The Start of Your Ending (41st Side)",
+        "Trife Life"
+      ],
+      "count": 10,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Queensbridge, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Moneybagg Yo",
+      "bio": "Moneybagg Yo, born Demario DeWayne White Jr., is an American rapper and songwriter from Memphis, Tennessee. Known for his gritty and authentic style, Moneybagg Yo rose to prominence with his mixtapes and gained mainstream success with his albums. His lyrics often reflect his experiences growing up in a rough environment and touch on topics such as street life, struggle, and personal growth.",
+      "songs": [
+        "Black Heart",
+        "Fed Baby's",
+        "Reset",
+        "Say Na"
+      ],
+      "count": 4,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Memphis, Tennessee",
+      "region": "South"
+    },
+    {
+      "Artist": "Mos Def",
+      "bio": "Mos Def, also known as Yasiin Bey, is an American rapper, actor, and activist. Known for his thought-provoking lyrics and conscious approach to hip-hop, he has become a respected figure in the genre. Mos Def's albums like 'Black on Both Sides' and his work with the group Black Star showcase his lyrical prowess and social commentary, solidifying his status as a revered artist.",
+      "songs": [
+        "Black Radio",
+        "Casa Bey",
+        "Crime And Medicine",
+        "Fear Not Of Man",
+        "Got",
+        "Grown Man Business Fresh Vintage Bottles",
+        "Habitat",
+        "Life In Marvelous Times",
+        "Life Is Real",
+        "Mr Nigga",
+        "Murder Of A Teenage Life",
+        "New World Water",
+        "Quiet Dog Bite Hard",
+        "Rock N Roll",
+        "Speed Law",
+        "The Boogie Man Song",
+        "The Rape Over",
+        "War",
+        "Workers Comp"
+      ],
+      "count": 19,
+      "eras": [
+        "1990s",
+        "2000s",
+        "2010+"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "N.W.A.",
+      "bio": "N.W.A., which stands for Niggaz Wit Attitudes, was an American hip-hop group known for their provocative and politically charged music. Comprised of Eazy-E, Ice Cube, Dr. Dre, MC Ren, and DJ Yella, they pioneered the gangsta rap subgenre and addressed the realities of life in Compton, California. N.W.A.'s album 'Straight Outta Compton' and their groundbreaking track 'Fuck tha Police' sparked controversy and ignited important conversations about racial inequality and police brutality.",
+      "songs": [
+        "Express Yourself",
+        "F*ck da Police"
+      ],
+      "count": 2,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Los Angeles, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Nas",
+      "bio": "Nas, born Nasir bin Olu Dara Jones, is an American rapper and entrepreneur. With his poetic lyricism and introspective storytelling, he has earned widespread acclaim and is regarded as one of the greatest rappers of all time. Nas's debut album 'Illmatic' is considered a hip-hop masterpiece, and his subsequent releases have continued to showcase his lyrical depth and social commentary.",
+      "songs": [
+        "Black Republican",
+        "Daughters",
+        "I Can",
+        "I Gave You Power",
+        "If I Ruled The World",
+        "One Love",
+        "The World Is Yours"
+      ],
+      "count": 7,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Queensbridge, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Naughty By Nature",
+      "bio": "Naughty By Nature is an American hip-hop group known for their energetic and infectious music. Consisting of Treach, Vin Rock, and DJ Kay Gee, they achieved mainstream success with hits like 'O.P.P.' and 'Hip Hop Hooray'. Naughty By Nature's music is characterized by catchy hooks, party anthems, and a blend of rap and R&B influences, making them a beloved and influential act in the rap scene.",
+      "songs": [
+        "Everything's Gonna Be Alright",
+        "Mourn You Til I Join You"
+      ],
+      "count": 2,
+      "eras": [
+        "1990s"
+      ],
+      "location": "East Orange, New Jersey",
+      "region": "East"
+    },
+    {
+      "Artist": "NBA Youngboy",
+      "bio": "NBA Youngboy, also known as YoungBoy Never Broke Again, is an American rapper and songwriter. He gained significant popularity for his distinct Southern style and emotionally charged lyrics. NBA Youngboy's music often reflects his personal experiences, struggles, and triumphs, making him a relatable figure for many listeners.",
+      "songs": [
+        "I Am Who They Say I Am",
+        "Untouchable",
+        "No Smoke",
+        "Genie",
+        "Akbar",
+        "Outside Today"
+      ],
+      "count": 6,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Baton Rouge, Louisiana",
+      "region": "South"
+    },
+    {
+      "Artist": "Nice & Smooth",
+      "bio": "Nice & Smooth is an American hip-hop duo consisting of Greg Nice and Smooth B. With their smooth flows and playful lyrics, they gained popularity in the 1990s. Nice & Smooth's hits like 'Hip-Hop Junkies' and 'Sometimes I Rhyme Slow' showcased their chemistry and their ability to create catchy and feel-good rap tracks.",
+      "songs": [
+        "Breakdown",
+        "Do Whatcha Gotta",
+        "DWYCK",
+        "Ghetoo Freaks",
+        "Ooh Child",
+        "Sometimes I Rhyme Slow"
+      ],
+      "count": 6,
+      "eras": [
+        "1980s"
+      ],
+      "location": "New York, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Nicki Minaj",
+      "bio": "Nicki Minaj is a Trinidadian-American rapper, singer, and songwriter. With her distinctive flow, dynamic delivery, and larger-than-life persona, she has become one of the most successful female artists in hip-hop. Nicki Minaj's albums, including 'Pink Friday' and 'The Pinkprint', have spawned numerous chart-topping hits, and her versatility as a rapper and singer has solidified her status as a global superstar.",
+      "songs": [
+        ""
+      ],
+      "count": 0,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Queens, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Nipsey Hussle",
+      "bio": "Nipsey Hussle, born Ermias Asghedom, was an American rapper, entrepreneur, and community activist. Known for his entrepreneurial spirit and dedication to his community, he gained recognition with his mixtapes and his album 'Victory Lap'. Nipsey Hussle's music conveyed his experiences growing up in South Los Angeles, and his commitment to uplifting and empowering his community made him a beloved figure in hip-hop.",
+      "songs": [
+        "Blue Laces 2",
+        "Blue Laces",
+        "Dedication",
+        "Don't Take Days Off",
+        "Loaded Bases",
+        "Ocean Views",
+        "Racks in the Middle",
+        "Roll The Windows Up"
+      ],
+      "count": 8,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Los Angeles, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Notorious B.I.G.",
+      "bio": "Notorious B.I.G., also known as Biggie Smalls, was an American rapper and songwriter. Regarded as one of the greatest rappers of all time, his impactful career was cut short due to his untimely death. Notorious B.I.G.'s albums, including 'Ready to Die' and 'Life After Death', showcased his storytelling abilities, lyrical prowess, and distinctive flow, solidifying his legacy as a rap legend.",
+      "songs": [
+        "Sky's the Limit"
+      ],
+      "count": 1,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Onyx",
+      "bio": "Onyx is an American hip-hop group consisting of Fredro Starr, Sticky Fingaz, Sonny Seeza, and Big DS (deceased). Known for their aggressive and energetic style, they gained recognition with their debut album 'Bacdafucup' and hits like 'Slam'. Onyx's music embodies the rawness of East Coast hardcore rap, and their powerful performances and gritty lyrics have made them influential figures in the genre.",
+      "songs": [
+        "All We Got Iz Us (Evil Streets)",
+        "Black Hoodie Rap",
+        "Evil Streets (Remix)",
+        "Last Dayz",
+        "Slam",
+        "Throw Ya Gunz"
+      ],
+      "count": 6,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Queens, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Outkast",
+      "bio": "Outkast is an American hip-hop duo consisting of Andre 3000 and Big Boi. Known for their eclectic and innovative approach to rap music, they have pushed boundaries and achieved critical acclaim with albums like 'Aquemini' and 'Speakerboxxx/The Love Below'. Outkast's music blends various genres, including funk, soul, and pop, and their unique style and artistic vision have left an indelible mark on hip-hop.",
+      "songs": [
+        "B.O.B.",
+        "Rosa Parks"
+      ],
+      "count": 2,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Atlanta, Georgia",
+      "region": "South"
+    },
+    {
+      "Artist": "Poor Righteous Teachers",
+      "bio": "Poor Righteous Teachers was an American hip-hop group from Trenton, New Jersey. The group's members, Wise Intelligent, Culture Freedom, and Father Shaheed, were known for promoting pro-Black messages and Five Percent teachings in their music. They played a significant role in the conscious hip-hop movement of the late 1980s and 1990s. Something unique about them is their blend of reggae influences and strong focus on education and social justice. In their work, they often emphasized <span class='pir'>social consciousness, cultural relevance, and activism</span>.",
+      "songs": [
+        "Holy Intellect",
+        "Time To Say Peace",
+        "Speaking Upon A Blackman",
+        "So Many Teachers",
+        "Poor Righteous Teachers",
+        "The Nation's Anthem",
+        "Each One Teach One",
+        "Rappin' Black",
+        "Just Servin' Justice",
+        "Freedom Or Death",
+        "Pure Poverty",
+        "Black Business",
+        "Get Off The Crack",
+        "Ghetto We Love",
+        "Conscious Style"
+      ],
+      "count": 15,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Trenton, New Jersey",
+      "region": "East"
+    },
+    {
+      "Artist": "Public Enemy",
+      "bio": "Public Enemy is an American hip-hop group known for their politically charged and socially conscious music. Led by Chuck D and Flava Flav, they emerged in the 1980s as one of the most influential rap groups. Public Enemy's albums like 'It Takes a Nation of Millions to Hold Us Back' and 'Fear of a Black Planet' addressed issues of racial inequality and social injustice, solidifying their status as pioneers of conscious rap.",
+      "songs": [
+        "911 is a Joke",
+        "Fight The Power",
+        "Don't Believe The Hype",
+        "Black Steel in the Hour of Chaos",
+        "Bring the Noise",
+        "Can't Truss It",
+        "Shut Em Down",
+        "Welcome to the Terrordome"
+      ],
+      "count": 8,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Long Island, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Redman",
+      "bio": "Redman, born Reggie Noble, is an American rapper, producer, and actor. Known for his witty wordplay, charismatic delivery, and humorous style, he gained recognition as a solo artist and for his collaborations with Method Man. Redman's albums like 'Muddy Waters' and 'Doc's da Name 2000' showcase his unique personality and his ability to craft engaging and entertaining rap music.",
+      "songs": [
+        "Can't Wait",
+        "Sooperman Luva II",
+        "Whateva Man"
+      ],
+      "count": 3,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Newark, New Jersey",
+      "region": "East"
+    },
+    {
+      "Artist": "Rick Ross",
+      "bio": "Rick Ross, born William Leonard Roberts II, is an American rapper and entrepreneur. Known for his deep, authoritative voice and luxurious lifestyle, Ross has gained prominence in the hip-hop industry. He often raps about his experiences as a former drug dealer and his rise to success, while also addressing social and cultural issues in his music. One interesting fact about Rick Ross is that he founded the record label Maybach Music Group.",
+      "songs": [
+        "Free Mason",
+        "Pirates",
+        "Rich Forever",
+        "Usual Suspects",
+        "Valley of Death"
+      ],
+      "count": 5,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Carol City, Florida",
+      "region": "South"
+    },
+    {
+      "Artist": "Roxanne Shante",
+      "bio": "Roxanne Shante is an American rapper and hip-hop pioneer. Rising to fame in the 1980s, she became known for her response tracks in the Roxanne Wars, a series of diss tracks between different artists. Roxanne Shante's bold and confident persona, coupled with her sharp rhymes and lyrical skill, cemented her as one of the prominent female voices in early hip-hop.",
+      "songs": [
+        "Go On Girl",
+        "Have a Nice Day",
+        "Independent Woman",
+        "Runaway"
+      ],
+      "count": 4,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Queens, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Run DMC",
+      "bio": "Run DMC is an American hip-hop group consisting of Joseph Simmons (Run), Darryl McDaniels (DMC), and Jason Mizell (Jam Master Jay, deceased). Considered one of the pioneering acts of hip-hop, they achieved mainstream success in the 1980s and influenced the rap and rock fusion. Run DMC's hits like 'Walk This Way' and 'It's Tricky' showcased their unique style, blending rap with rock elements and establishing them as cultural icons.",
+      "songs": [
+        "30 Days",
+        "Hard Times",
+        "It's Like That",
+        "Pause",
+        "Proud to be Black",
+        "Wake Up"
+      ],
+      "count": 6,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Queens, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Run the Jewels",
+      "bio": "Run the Jewels, composed of rappers <b>El-P</b> and <b>Killer Mike</b>, is a critically acclaimed American hip-hop duo formed in 2013. They are known for their politically charged lyrics, discussing themes of <span class='pir'>social justice, inequality, and government corruption</span>.",
+      "songs": [
+        "Close Your Eyes", 
+        "A Report to the Shareholders", 
+        "Thieves! (Screamed the Ghost)", 
+        "DDFH", 
+        "Early", 
+        "Kill Your Masters", 
+        "Lie, Cheat, Steal", 
+        "Ju$t", 
+        "Walking in the Snow"
+      ],
+      "count": 9,
+      "eras": ["2010+"],
+      "location": "{city, state}",
+      "region": "South"
+    },
+    {
+      "Artist": "Salt-N-Pepa",
+      "bio": "Salt-N-Pepa is an American hip-hop group consisting of Cheryl James (Salt), Sandra Denton (Pepa), and Deidra Roper (DJ Spinderella). Known for their empowering lyrics and female-forward approach, they became one of the most successful female rap groups. Salt-N-Pepa's hits like 'Push It' and 'Shoop' broke barriers and opened doors for women in hip-hop, solidifying their status as pioneers and role models.",
+      "songs": [
+        "Expression",
+        "Let's Talk About Sex",
+        "None of Your Business",
+        "Whatta Man"
+      ],
+      "count": 4,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Queens, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Scarface",
+      "bio": "Scarface, born Brad Terrence Jordan, is an American rapper and record producer. As a member of the Geto Boys and through his solo career, he has gained recognition for his introspective lyrics and gritty storytelling. Scarface's albums, including 'The Diary' and 'The Fix', delve into topics like street life, social issues, and personal struggles, showcasing his lyrical depth and authenticity.",
+      "songs": [
+        "Faith",
+        "Goin Down",
+        "Guess Who's Back",
+        "Hand of the Dead Body",
+        "High Note",
+        "I Seen a Man Die",
+        "In Between Us",
+        "Jesse James",
+        "Look Me in My Eyes",
+        "Mind Playin' Tricks",
+        "My Block",
+        "No Tears",
+        "Now I Feel Ya",
+        "Smartz",
+        "Smile",
+        "The Diary",
+        "The White Sheet",
+        "What Can I Do"
+      ],
+      "count": 18,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Houston, Texas",
+      "region": "South"
+    },
+    {
+      "Artist": "Schoolly D",
+      "bio": "Schoolly D, born Jesse Bonds Weaver Jr., is an American rapper and actor known for his influence on gangsta rap. Emerging in the 1980s, he introduced explicit and confrontational lyrics to the genre. Schoolly D's albums like 'Schoolly D' and 'Saturday Night! The Album' established his reputation as one of the pioneers of hardcore rap, and his music reflected the realities of urban life in Philadelphia.",
+      "songs": [
+        "Am I Black Enough For You"
+      ],
+      "count": 1,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Philadelphia, Pennsylvania",
+      "region": "East"
+    },
+    {
+      "Artist": "Sir Mix-a-Lot",
+      "bio": "Sir Mix-a-Lot, born Anthony Ray, is an American rapper, producer, and songwriter known for his humorous and catchy music. He gained mainstream success with the hit single 'Baby Got Back', which became a cultural phenomenon. Sir Mix-a-Lot's music combines rap, funk, and pop influences, and his playful and irreverent lyrics have made him a popular figure in hip-hop.",
+      "songs": [
+        "One Time's Got No Case",
+        "Swap Meet Louie"
+      ],
+      "count": 2,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Seattle, Washington",
+      "region": "West"
+    },
+    {
+      "Artist": "Slick Rick",
+      "bio": "Slick Rick, born Ricky Martin Lloyd Walters, is a British-American rapper and record producer. Known for his storytelling abilities and distinctive delivery, he has been a significant influence on the rap scene. Slick Rick's albums like 'The Great Adventures of Slick Rick' and his storytelling tracks like 'Children's Story' have solidified his status as a rap legend and one of the greatest storytellers in hip-hop.",
+      "songs": [
+        "Children's Story",
+        "Hey Young World",
+        "Street Talkin",
+        "Teenage Love"
+      ],
+      "count": 4,
+      "eras": [
+        "1980s"
+      ],
+      "location": "London, England",
+      "region": "East"
+    },
+    {
+      "Artist": "Snoop Dogg",
+      "bio": "Calvin Cordozar Broadus Jr., known professionally as Snoop Doggy Dogg, also known as Snoop Dogg, is an American rapper, singer, and actor. With his laid-back delivery and smooth flow, he has become one of the most recognizable and iconic figures in hip-hop. Snoop Dogg's albums, including 'Doggystyle' and 'Doggfather', have achieved commercial success, and his collaborations with various artists have showcased his versatility and longevity in the industry. His smooth flow and distinctive voice have made him a global icon. Snoop's music often reflects the culture and issues of the streets, blending <span class='pir';>gangsta rap with insights on societal problems and personal challenges</span>.",
+      "songs": [
+        "Murder Was the Case",
+        "No Guns Allowed",
+        "One Blood, One Cuzz",
+        "Police",
+        "This City",
+        "Vato"
+      ],
+      "count": 6,
+      "eras": [
+        "1990s",
+        "2000s",
+        "2010+"
+      ],
+      "location": "Long Beach, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Special Ed",
+      "bio": "Special Ed, born Edward Archer, is an American rapper and actor known for his intricate rhymes and wordplay. Emerging in the late 1980s, he gained recognition for his hit single 'I Got It Made'. Special Ed's music showcases his lyrical skill and clever punchlines, solidifying his status as a respected lyricist in hip-hop.",
+      "songs": [
+        "The Mission"
+      ],
+      "count": 1,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Stetsasonic",
+      "bio": "Stetsasonic, also known as Stetsasonic, is an American hip-hop group known for their innovative fusion of live instrumentation and rap. Active in the 1980s and 1990s, they incorporated elements of funk, jazz, and soul into their music. Stetsasonic's albums like 'In Full Gear' and their hit single 'Talkin' All That Jazz' showcased their musicality and social consciousness, making them influential figures in the development of hip-hop.",
+      "songs": [
+        "A.F.R.I.C.A.",
+        "Freedom or Death",
+        "In Full Gear",
+        "Sally",
+        "Talkin' All That Jazz"
+      ],
+      "count": 5,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Styles P",
+      "bio": "Styles P, born David Styles on November 28, 1974, is an influential rapper hailing from Yonkers, New York. He is known for his raw lyrics and honest depictions of street life, often emphasizing themes of social consciousness and cultural relevance. A member of  <b>The LOX</b>, Styles P has consistently utilized his platform to speak out on <span class='pir';>societal issues and uplift the community, particularly through his music.</span>",
+      "songs": [
+        "My Brother",
+        "Black Magic",
+        "Good Times",
+        "Testify",
+        "All I Know Is Pain",
+        "Where Angels Sleep",
+        "Keep The Faith"
+      ],
+      "count": 7,
+      "eras": [
+        "1990s",
+        "2000s",
+        "2010+"
+      ],
+      "location": "Yonkers, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Sugar Hill Gang",
+      "bio": "Sugar Hill Gang is an American hip-hop group known for their pioneering track 'Rapper's Delight', which is widely regarded as the first commercially successful rap single. Emerging in the late 1970s, they played a significant role in popularizing hip-hop music. Sugar Hill Gang's contributions to the genre have made them cultural icons, and their music continues to be celebrated as a cornerstone of rap history.",
+      "songs": [
+        ""
+      ],
+      "count": 0,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Englewood, New Jersey",
+      "region": "East"
+    },
+    {
+      "Artist": "T.I.",
+      "bio": "T.I., born Clifford Joseph Harris Jr., is an American rapper, actor, and entrepreneur. With his charismatic delivery and lyrical prowess, he has become one of the most successful and influential artists in hip-hop. T.I.'s albums like 'Trap Muzik' and 'Paper Trail' have garnered critical acclaim, and his hits like 'Live Your Life' and 'Whatever You Like' have topped the charts, solidifying his status as a rap heavyweight.",
+      "songs": [
+        "Dead and Gone",
+        "Live Your Life",
+        "New National Anthem",
+        "No Mediocre"
+      ],
+      "count": 4,
+      "eras": [
+        "2000s"
+      ],
+      "location": "Atlanta, Georgia",
+      "region": "South"
+    },
+    {
+      "Artist": "Talib Kweli",
+      "bio": "Talib Kweli is an American rapper, entrepreneur, and social activist. Known for his conscious and thought-provoking lyrics, he has made a significant impact on the rap scene. Talib Kweli's albums like 'Quality' and his collaborations with artists like Mos Def as part of Black Star have showcased his insightful storytelling and his dedication to addressing social and political issues through his music.",
+      "songs": [
+        "Get By",
+        "The Blast",
+        "The Proud"
+      ],
+      "count": 3,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "The D.O.C.",
+      "bio": "The D.O.C., born Tracy Lynn Curry, is an American rapper and songwriter. He gained recognition as a member of the N.W.A. collective and for his solo work. The D.O.C.'s debut album 'No One Can Do It Better' showcased his lyrical skills and smooth flow, but his career was tragically affected by a car accident that damaged his vocal cords. Nevertheless, his contributions to hip-hop continue to be celebrated.",
+      "songs": [
+        ""
+      ],
+      "count": 0,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Dallas, Texas",
+      "region": "South"
+    },
+    {
+      "Artist": "The Roots",
+      "bio": "The Roots is an American hip-hop group known for their live instrumentation and eclectic sound. Comprised of Tariq Trotter (Black Thought) and Ahmir Thompson (Questlove), they have redefined the possibilities of hip-hop as a genre. The Roots' albums like 'Things Fall Apart' and 'Phrenology' showcase their musical versatility, poetic lyricism, and their ability to bridge the gap between rap and other genres, earning them critical acclaim and a dedicated fanbase.",
+      "songs": [
+        "Thought @ Work",
+        "What They Do",
+        "Don't Say Nuthin'"
+      ],
+      "count": 3,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Philadelphia, Pennsylvania",
+      "region": "East"
+    },
+    {
+      "Artist": "Tone Loc",
+      "bio": "Tone Loc is an American rapper, actor, and producer. Known for his deep, gravelly voice and laid-back delivery, he achieved commercial success with hits like 'Wild Thing' and 'Funky Cold Medina'. Tone Loc's music embodies the fun and carefree spirit of 1980s and 1990s hip-hop, and his distinctive voice and catchy hooks have made him a memorable figure in the genre.",
+      "songs": [
+        "All Through the Night",
+        "Cheeba Cheeba"
+      ],
+      "count": 2,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Los Angeles, California",
+      "region": "West"
+    },
+    {
+      "Artist": "Travis Scott",
+      "bio": "Travis Scott, born Jacques Berman Webster II, is an American rapper, singer, and producer. With his atmospheric beats, autotuned vocals, and energetic performances, he has become one of the leading figures in modern hip-hop. Travis Scott's albums like 'Astroworld' and his collaborations with other artists have topped the charts and showcased his ability to push boundaries and create immersive musical experiences.",
+      "songs": [
+        "90210",
+        "Stop trying to be God"
+      ],
+      "count": 2,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Houston, Texas",
+      "region": "South"
+    },
+    {
+      "Artist": "Tribe Called Quest",
+      "bio": "A Tribe Called Quest is an American hip-hop group known for their unique style and conscious lyrics. Consisting of Q-Tip, Phife Dawg, Ali Shaheed Muhammad, and Jarobi White, they emerged in the 1990s and achieved critical acclaim. A Tribe Called Quest's albums like 'The Low End Theory' and 'Midnight Marauders' blended jazz-infused beats with socially aware rhymes, influencing a generation of artists and solidifying their status as rap legends.",
+      "songs": [
+        "We The People..."
+      ],
+      "count": 1,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Queens, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Tupac Shakur",
+      "bio": "Tupac Shakur, also known as 2Pac, was an American rapper, actor, and activist. Considered one of the greatest and most influential rappers of all time, he addressed social issues and reflected on his personal struggles in his music. Tupac Shakur's albums like 'Me Against the World' and 'All Eyez on Me' showcased his raw talent, poetic lyricism, and powerful delivery, leaving a lasting impact on hip-hop and popular culture.",
+      "songs": [
+        "Brenda's Got a Baby",
+        "Changes",
+        "Dear Mama",
+        "Ghetto Gospel",
+        "Holler If Ya Hear Me",
+        "I Wonder If Heaven Got a Ghetto",
+        "Keep Ya Head Up",
+        "Pain",
+        "Trapped",
+        "White Man'z World"
+      ],
+      "count": 10,
+      "eras": [
+        "1990s"
+      ],
+      "location": "East Harlem, New York",
+      "region": "West"
+    },
+    {
+      "Artist": "Ty Dolla $ign",
+      "bio": "Ty Dolla $ign, born Tyrone William Griffin Jr., is an American singer, songwriter, and record producer. He has created a unique blend of hip-hop, R&B, and pop music. <span class='pir';>Through his music, he occasionally addresses social issues and personal empowerment, as seen in songs like 'No Justice' and 'Stand For'.</span>",
+      "songs": ["Miracle / Wherever", "Stand For", "No Justice", "Free TC"],
+      "count": 4,
+      "eras": ["2010+"],
+      "location": "Los Angeles, California",
+      "region": "West"
+    },
+    {
+      "Artist": "UGK",
+      "bio": "UGK (Underground Kingz) was a pioneering hip hop duo from Port Arthur, Texas, consisting of Chad 'Pimp C' Butler and Bernard 'Bun B' Freeman. Known for their unique blend of Southern rap and soulful production, UGK gained recognition for their gritty street narratives, honest lyricism, and influential contributions to the Southern hip hop scene. Their music shed light on the struggles and realities faced by marginalized communities, while also addressing themes of love, respect, and cultural identity.",
+      "songs": [
+        "Hi-Life",
+        "One Day",
+        "Pocket Full of Stones",
+        "Protect & Serve",
+        "Shattered Dreams",
+        "Stoned Junkee"
+      ],
+      "count": 6,
+      "eras": [
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "location": "Port Arthur, Texas",
+      "region": "South"
+    },
+    {
+      "Artist": "Ultramagnetic MCs",
+      "bio": "Ultramagnetic MCs is an American hip-hop group known for their innovative and experimental approach to rap music. With their eclectic samples, abstract lyrics, and complex rhyme patterns, they pushed the boundaries of the genre. Ultramagnetic MCs' albums like 'Critical Beatdown' and 'Funky' showcased their unique style, and their influence can be heard in the work of many subsequent artists.",
+      "songs": [
+        "A Chorus Line",
+        "Ego Trippin",
+        "One Two One Two",
+        "Poppa Large",
+        "Raise It Up"
+      ],
+      "count": 5,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Bronx, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "UTFO",
+      "bio": "UTFO, which stands for Untouchable Force Organization, was an American hip-hop group known for their pioneering work in the genre. They gained recognition for their hit single 'Roxanne, Roxanne', which sparked the Roxanne Wars, a series of response tracks from various artists. UTFO's music showcased their charismatic delivery, clever wordplay, and innovative production, making them influential figures in the early days of rap.",
+      "songs": [
+        "Bad Luck Barry",
+        "Lethal",
+        "Nothing Cold Will Ever Last",
+        "Skeezer",
+        "Split Personality",
+        "Split Personality II",
+        "Take a Chance",
+        "The Ride",
+        "We're All in the Same Gang",
+        "Ya Shoulda Listened"
+      ],
+      "count": 10,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Whistle",
+      "bio": "Whistle is an American hip-hop group known for their energetic and dance-oriented rap music. Active in the 1980s and 1990s, they achieved success with hits like '(Nothing Serious) Just Buggin' and 'Right Next to Me'. Whistle's music combined rap with elements of pop and dance, and their catchy hooks and upbeat vibes made them popular in both the rap and dance music scenes.",
+      "songs": [
+        ""
+      ],
+      "count": 0,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "Whodini",
+      "bio": "Whodini is an American hip-hop group known for their innovative blend of rap and R&B. With their smooth vocals, catchy hooks, and dynamic stage presence, they gained popularity in the 1980s. Whodini's albums like 'Escape' and 'Back in Black' featured hits like 'Friends' and 'Freaks Come Out at Night', showcasing their versatility and their ability to create infectious and memorable rap songs.",
+      "songs": [
+        "Be Yourself",
+        "Friends",
+        "One Love"
+      ],
+      "count": 3,
+      "eras": [
+        "1980s"
+      ],
+      "location": "Brooklyn, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "World Famous Supreme Team",
+      "bio": "<span class='pir';>The World Famous Supreme Team</span> was a pioneering hip-hop radio show and DJ duo formed by members Andre 'Doctor' Williams and Ronald 'Jazz' Hamilton. Their show aired on WHBI-FM and later on WHBI 105.9 in New York City during the early 1980s. They played a significant role in the early development of hip-hop culture, blending music, comedy, and social commentary. The World Famous Supreme Team was known for their unique and innovative approach to radio, incorporating skits, live performances, and interviews with hip-hop artists, contributing to the growth and popularity of hip-hop in its early stages. </span>",
+      "songs": [
+        "World Famous"
+      ],
+      "count": 1,
+      "eras": ["1980s"],
+      "location": "New York City, NY",
+      "region": "East"
+    },
+    {
+      "Artist": "Wu-Tang Clan",
+      "bio": "Wu-Tang Clan is an American hip-hop group known for their distinctive sound, intricate lyricism, and extensive collective of talented artists. Comprised of RZA, GZA, Method Man, Raekwon, Ghostface Killah, and others, they emerged in the 1990s as one of the most influential rap groups. Wu-Tang Clan's debut album 'Enter the Wu-Tang (36 Chambers)' and subsequent solo projects have solidified their status as rap legends and cultural icons.",
+      "songs": [
+        "A Better Tomorrow",
+        "C.R.E.A.M.",
+        "Can It Be That It Was All So Simple Then",
+        "Protect Ya Neck",
+        "Triumph"
+      ],
+      "count": 5,
+      "eras": [
+        "1990s"
+      ],
+      "location": "Staten, Island, New York",
+      "region": "East"
+    },
+    {
+      "Artist": "XXXTencantion",
+      "bio": "XXXTencantion, born Jahseh Dwayne Ricardo Onfroy, was an American rapper, singer, and songwriter. Known for his versatile style and emotionally charged music, he gained popularity in the SoundCloud rap scene. XXXTencantion's albums like '17' and '?' showcased his introspective lyrics, blending genres like hip-hop, rock, and emo. Despite his tragic and untimely death, his impact on the music industry and his dedicated fanbase continue to resonate.",
+      "songs": [
+        "Changes",
+        "Hope",
+        "Jocelyn Flores",
+        "Sad"
+      ],
+      "count": 4,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Plantation, Florida",
+      "region": "South"
+    },
+    {
+      "Artist": "Young Dolph",
+      "bio": "Young Dolph, born Adolph Thornton Jr., is an American rapper and entrepreneur. Known for his gritty street tales and confident delivery, he has built a loyal following with his mixtapes and albums. Young Dolph's projects like 'King of Memphis' and 'Role Model' showcase his charismatic personality and his ability to craft hard-hitting and catchy rap tracks that resonate with his audience.",
+      "songs": [
+        "Black Friday",
+        "Facts",
+        "I Pray For My Enemies",
+        "Rich Slave",
+        "The Land",
+        "USA"
+      ],
+      "count": 6,
+      "eras": [
+        "2010+"
+      ],
+      "location": "Chicago, Illinois",
+      "region": "South"
+    },
+    {
+      "Artist": "Young Thug",
+      "bio": "Jeffrey Lamar Williams, known as Young Thug, is a versatile and influential hip-hop artist from Atlanta, Georgia. He has made a significant impact on modern hip-hop culture with his unique vocal style and boundary-pushing music. Throughout his career, Young Thug has touched on various social issues, showcased individuality, and challenged traditional norms, making him a socially conscious artist.",
+      "songs": [
+        "For Ya'll (featuring Jacquees)"
+      ],
+      "count": 1,
+      "eras": ["2010+"],
+      "location": "Atlanta, Georgia",
+      "region": "South"
+    }      
+  ]
+}
