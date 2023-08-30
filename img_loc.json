@@ -1,0 +1,484 @@
+{
+    "rtist_imgs": [
+      {
+        "Artist": "2 Chainz",
+        "image_loc": "/assets/css/imgs/2010+/2 Chainz.jpg"
+      },
+      {
+        "Artist": "21 Savage",
+        "image_loc": "/assets/css/imgs/2010+/21 Savage.jpg"
+      },
+      {
+        "Artist": "3rd Bass",
+        "image_loc": "/assets/css/imgs/1980s/3rd Bass.jpg"
+      },
+      {
+        "Artist": "50 Cent",
+        "image_loc": "/assets/css/imgs/2000s/50 Cent.jpg"
+      },
+      {
+        "Artist": "Akinyele",
+        "image_loc": "/assets/css/imgs/1990s/Akinyele.jpg"
+      },
+      {
+        "Artist": "Beastie Boys",
+        "image_loc": "/assets/css/imgs/1980s/Beastie Boys.png"
+      },
+      {
+        "Artist": "Big Daddy Kane",
+        "image_loc": "/assets/css/imgs/1980s/Big Daddy Kane.jpg"
+      },
+      {
+        "Artist": "Big Pun",
+        "image_loc": "/assets/css/imgs/1990s/Big Pun.jpg"
+      },
+      {
+        "Artist": "Biz Markie",
+        "image_loc": "/assets/css/imgs/1980s/Biz Markie.jpg"
+      },
+      {
+        "Artist": "Black Eyed Peas",
+        "image_loc": "/assets/css/imgs/1990s/Black Eyed Peas.jpg"
+      },
+      {
+        "Artist": "Black Moon",
+        "image_loc": "/assets/css/imgs/1990s/Black Moon.jpg"
+      },
+      {
+        "Artist": "Bone Thugs-N-Harmony",
+        "image_loc": "/assets/css/imgs/1990s/Bone Thugs-N-Harmony.jpeg"
+      },
+      {
+        "Artist": "Busta Rhymes",
+        "image_loc": "/assets/css/imgs/1990s/Busta Rhymes.jpg"
+      },
+      {
+        "Artist": "Canibus",
+        "image_loc": "/assets/css/imgs/1990s/Canibus.jpg"
+      },
+      {
+        "Artist": "Cardi B",
+        "image_loc": "/assets/css/imgs/2010+/Cardi B.jpg"
+      },
+      {
+        "Artist": "Chance the Rapper",
+        "image_loc": "/assets/css/imgs/2010+/Chance The Rapper.jpg"
+      },
+      {
+        "Artist": "Childish Gambino",
+        "image_loc": "/assets/css/imgs/2010+/Childish Gambino.jpg"
+      },
+      {
+        "Artist": "Common",
+        "image_loc": "/assets/css/imgs/1990s/Common.jpg"
+      },
+      {
+        "Artist": "Cypress Hill",
+        "image_loc": "/assets/css/imgs/1990s/Cypress Hill.jpg"
+      },
+      {
+        "Artist": "De La Soul",
+        "image_loc": "/assets/css/imgs/1980s/De La Soul.jpg"
+      },
+      {
+        "Artist": "Digital Underground",
+        "image_loc": "/assets/css/imgs/1980s/Digital Underground.jpeg"
+      },
+      {
+        "Artist": "DJ Jazzy Jeff & The Fresh Prince",
+        "image_loc": "/assets/css/imgs/1980s/DJ Jazzy Jeff and The Fresh Prince.jpg"
+      },
+      {
+        "Artist": "Denzel Curry",
+        "image_loc": "/assets/css/imgs/2010+/Denzel Curry.jpg"
+      },
+      {
+        "Artist": "DMX",
+        "image_loc": "/assets/css/imgs/1990s/DMX.jpg"
+      },
+      {
+        "Artist": "Don Trip",
+        "image_loc": "/assets/css/imgs/2010+/Don Trip.jpg"
+      },
+      {
+        "Artist": "Doug E. Fresh",
+        "image_loc": "/assets/css/imgs/1980s/Doug E Fresh.jpg"
+      },
+      {
+        "Artist": "DJ Quik",
+        "image_loc": "/assets/css/imgs/1990s/DJ Quik.jpg"
+      },
+      {
+        "Artist": "Drake",
+        "image_loc": "/assets/css/imgs/2000s/Drake.jpg"
+      },
+      {
+        "Artist": "El-P",
+        "image_loc": "/assets/css/imgs/2000s/El-P.jpg"
+      },
+      {
+        "Artist": "Eminem",
+        "image_loc": "/assets/css/imgs/1990s/Eminem.jpg"
+      },
+      {
+        "Artist": "EPMD",
+        "image_loc": "/assets/css/imgs/1980s/EPMD.jpeg"
+      },
+      {
+        "Artist": "Eric B & Rakim",
+        "image_loc": "/assets/css/imgs/1980s/Eric B and Rakim.jpg"
+      },
+      {
+        "Artist": "Fabolous",
+        "image_loc": "/assets/css/imgs/2000s/Fabolous.jpg"
+      },
+      {
+        "Artist": "Fat Boys",
+        "image_loc": "/assets/css/imgs/1980s/Fat Boys.png"
+      },
+      {
+        "Artist": "Fearless Four",
+        "image_loc": "/assets/css/imgs/1980s/Fearless Four.jpeg"
+      },
+      {
+        "Artist": "Fugees",
+        "image_loc": "/assets/css/imgs/1990s/Fugees.jpg"
+      },
+      {
+        "Artist": "Future",
+        "image_loc": "/assets/css/imgs/2010+/Future.jpg"
+      },
+      {
+        "Artist": "Gang Starr",
+        "image_loc": "/assets/css/imgs/1990s/Gang Starr.jpg"
+      },
+      {
+        "Artist": "Grandmaster Flash and the Furious Five",
+        "image_loc": "/assets/css/imgs/1980s/Grandmaster Flash and the Furious Five.jpg"
+      },
+      {
+        "Artist": "Gunna",
+        "image_loc": "/assets/css/imgs/2010+/Gunna.jpg"
+      },
+      {
+        "Artist": "Heavy D & the Boyz",
+        "image_loc": "/assets/css/imgs/1980s/Heavy D and the Boyz.jpg"
+      },
+      {
+        "Artist": "Ice Cube",
+        "image_loc": "/assets/css/imgs/1980s/Ice Cube.jpg"
+      },
+      {
+        "Artist": "Ice-T",
+        "image_loc": "/assets/css/imgs/1980s/Ice-T.jpg"
+      },
+      {
+        "Artist": "Jay-Z",
+        "image_loc": "/assets/css/imgs/1990s/Jay-Z.jpg"
+      },
+      {
+        "Artist": "J-Cole",
+        "image_loc": "/assets/css/imgs/2000s/J-Cole.jpeg"
+      },
+      {
+        "Artist": "Joey Badass",
+        "image_loc": "/assets/css/imgs/2010+/Joey Badass.jpg"
+      },
+      {
+        "Artist": "Joyner Lucas",
+        "image_loc": "/assets/css/imgs/2010+/Joyner Lucas.jpeg"
+      },
+      {
+        "Artist": "Juice Wrld",
+        "image_loc": "/assets/css/imgs/2010+/Juice WRLD.jpg"
+      },
+      {
+        "Artist": "Jungle Brothers",
+        "image_loc": "/assets/css/imgs/1980s/Jungle Brothers.jpg"
+      },
+      {
+        "Artist": "Just-Ice",
+        "image_loc": "/assets/css/imgs/1980s/Just-Ice.jpg"
+      },
+      {
+        "Artist": "Kanye West",
+        "image_loc": "/assets/css/imgs/2000s/Kanye West.jpeg"
+      },
+      {
+        "Artist": "Kendrick Lamar",
+        "image_loc": "/assets/css/imgs/2000s/Kendrick Lamar.jpg"
+      },
+      {
+        "Artist": "Kenny Mason",
+        "image_loc": "/assets/css/imgs/2010+/Kenny Mason.jpg"
+      },
+      {
+        "Artist": "Kid 'n Play",
+        "image_loc": "/assets/css/imgs/1980s/Kid-n-Play.jpg"
+      },
+      {
+        "Artist": "Killer Mike",
+        "image_loc": "/assets/css/imgs/2000s/Killer Mike.jpg"
+      },
+      {
+        "Artist": "Kodak Black",
+        "image_loc": "/assets/css/imgs/2010+/Kodak Black.jpg"
+      },
+      {
+        "Artist": "Kool G Rap",
+        "image_loc": "/assets/css/imgs/1980s/Kool G Rap.jpg"
+      },
+      {
+        "Artist": "Kool Moe Dee",
+        "image_loc": "/assets/css/imgs/1980s/Kool Moe Dee.jpg"
+      },
+      {
+        "Artist": "KRS-One",
+        "image_loc": "/assets/css/imgs/1980s/KRS-One.jpg"
+      },
+      {
+        "Artist": "Kurtis Blow",
+        "image_loc": "/assets/css/imgs/1980s/Kurtis Blow.png"
+      },
+      {
+        "Artist": "Lauryn Hill",
+        "image_loc": "/assets/css/imgs/1990s/Lauryn Hill.jpg"
+      },
+      {
+        "Artist": "Lil Boosie",
+        "image_loc": "/assets/css/imgs/2000s/Lil Boosie.jpg"
+      },
+      {
+        "Artist": "Lil Jon",
+        "image_loc": "/assets/css/imgs/2000s/Lil Jon.jpeg"
+      },
+      {
+        "Artist": "Lil Uzi Vert",
+        "image_loc": "/assets/css/imgs/2010+/Lil Uzi Vert.jpg"
+      },
+      {
+        "Artist": "Lil Wayne",
+        "image_loc": "/assets/css/imgs/1990s/Lil Wayne.jpg"
+      },
+      {
+        "Artist": "LL Cool J",
+        "image_loc": "/assets/css/imgs/1980s/LL Cool J.jpg"
+      },
+      {
+        "Artist": "The Lox",
+        "image_loc": "/assets/css/imgs/1990s/The Lox.jpg"
+      },
+      {
+        "Artist": "Mac Dre",
+        "image_loc": "/assets/css/imgs/1990s/Mac Dre.jpg"
+      },
+      {
+        "Artist": "Main Source",
+        "image_loc": "/assets/css/imgs/1990s/Main Source.jpg"
+      },
+      {
+        "Artist": "MC Shan",
+        "image_loc": "/assets/css/imgs/1980s/MC Shan.jpg"
+      },
+      {
+        "Artist": "MF DOOM",
+        "image_loc": "/assets/css/imgs/1990s/MF Doom.jpg"
+      },
+      {
+        "Artist": "Missy Elliott",
+        "image_loc": "/assets/css/imgs/1990s/Missy Elliott.jpg"
+      },
+      {
+        "Artist": "Mobb Deep",
+        "image_loc": "/assets/css/imgs/1990s/Mobb Deep.jpg"
+      },
+      {
+        "Artist": "Moneybagg Yo",
+        "image_loc": "/assets/css/imgs/2010+/Moneybagg Yo.jpg"
+      },
+      {
+        "Artist": "Mos Def",
+        "image_loc": "/assets/css/imgs/1990s/Mos Def.jpg"
+      },
+      {
+        "Artist": "N.W.A.",
+        "image_loc": "/assets/css/imgs/1980s/NWA.jpg"
+      },
+      {
+        "Artist": "Nas",
+        "image_loc": "/assets/css/imgs/1990s/nas.jpg"
+      },
+      {
+        "Artist": "Naughty By Nature",
+        "image_loc": "/assets/css/imgs/1990s/Naughty By Nature.jpg"
+      },
+      {
+        "Artist": "NBA Youngboy",
+        "image_loc": "/assets/css/imgs/2010+/NBA Youngboy.jpg"
+      },
+      {
+        "Artist": "Nice & Smooth",
+        "image_loc": "/assets/css/imgs/1980s/Nice and Smooth.jpg"
+      },
+      {
+        "Artist": "Nicki Minaj",
+        "image_loc": "/assets/css/imgs/2000s/Nicki Minaj.jpg"
+      },
+      {
+        "Artist": "Nipsey Hussle",
+        "image_loc": "/assets/css/imgs/2000s/Nipsey Hussle.jpg"
+      },
+      {
+        "Artist": "Notorious B.I.G.",
+        "image_loc": "/assets/css/imgs/1990s/Notorious BIG.jpg"
+      },
+      {
+        "Artist": "Onyx",
+        "image_loc": "/assets/css/imgs/1990s/Onyx.jpg"
+      },
+      {
+        "Artist": "Outkast",
+        "image_loc": "/assets/css/imgs/1990s/Outkast.jpg"
+      },
+      {
+        "Artist": "Poor Righteous Teachers",
+        "image_loc": "/assets/css/imgs/1990s/Poor Righteous Teachers.jpg"
+      },
+      {
+        "Artist": "Public Enemy",
+        "image_loc": "/assets/css/imgs/1980s/Public Enemy.jpg"
+      },
+      {
+        "Artist": "Redman",
+        "image_loc": "/assets/css/imgs/1990s/Redman2.jpg"
+      },
+      {
+        "Artist": "Rick Ross",
+        "image_loc": "/assets/css/imgs/2010+/Rick Ross.jpg"
+      },
+      {
+        "Artist": "Roxanne Shante",
+        "image_loc": "/assets/css/imgs/1980s/Roxanne Shante.jpg"
+      },
+      {
+        "Artist": "Run DMC",
+        "image_loc": "/assets/css/imgs/1980s/Run DMC.png"
+      },
+      {
+        "Artist": "Run the Jewels",
+        "image_loc": "/assets/css/imgs/2010+/Run the Jewels.jpeg"
+      },
+      {
+        "Artist": "Salt-N-Pepa",
+        "image_loc": "/assets/css/imgs/1980s/Salt-n-Pepa.jpg"
+      },
+      {
+        "Artist": "Scarface",
+        "image_loc": "/assets/css/imgs/1980s/Scarface.jpg"
+      },
+      {
+        "Artist": "Schoolly D",
+        "image_loc": "/assets/css/imgs/1980s/Schoolly D.jpg"
+      },
+      {
+        "Artist": "Sir Mix-a-Lot",
+        "image_loc": "/assets/css/imgs/1980s/Sir Mix-a-Lot.jpeg"
+      },
+      {
+        "Artist": "Slick Rick",
+        "image_loc": "/assets/css/imgs/1980s/Slick Rick.jpg"
+      },
+      {
+        "Artist": "Snoop Dogg",
+        "image_loc": "/assets/css/imgs/1990s/Snoop Dogg.jpg"
+      },
+      {
+        "Artist": "Special Ed",
+        "image_loc": "/assets/css/imgs/1980s/Special Ed.jpg"
+      },
+      {
+        "Artist": "Stetsasonic",
+        "image_loc": "/assets/css/imgs/1980s/Stetsasonic.jpg"
+      },
+      {
+        "Artist": "Styles P",
+        "image_loc": "/assets/css/imgs/1990s/Styles P.png"
+      },
+      {
+        "Artist": "Sugar Hill Gang",
+        "image_loc": "/assets/css/imgs/1980s/Sugarhill Gang.jpg"
+      },
+      {
+        "Artist": "T.I.",
+        "image_loc": "/assets/css/imgs/2000s/TI.jpg"
+      },
+      {
+        "Artist": "Talib Kweli",
+        "image_loc": "/assets/css/imgs/1990s/Talib Kweli.jpg"
+      },
+      {
+        "Artist": "The D.O.C.",
+        "image_loc": "/assets/css/imgs/1980s/The DOC.jpeg"
+      },
+      {
+        "Artist": "The Roots",
+        "image_loc": "/assets/css/imgs/1990s/The Roots.jpg"
+      },
+      {
+        "Artist": "Tone Loc",
+        "image_loc": "/assets/css/imgs/1980s/Tone Loc.jpg"
+      },
+      {
+        "Artist": "Travis Scott",
+        "image_loc": "/assets/css/imgs/2010+/Travis Scott.jpg"
+      },
+      {
+        "Artist": "Tribe Called Quest",
+        "image_loc": "/assets/css/imgs/1990s/Tribe Called Quest.jpeg"
+      },
+      {
+        "Artist": "Tupac Shakur",
+        "image_loc": "/assets/css/imgs/1990s/Tupac Shakur.jpeg"
+      },
+      {
+        "Artist": "UGK",
+        "image_loc": "/assets/css/imgs/1980s/UGK.jpg"
+      },
+      {
+        "Artist": "Ultramagnetic MCs",
+        "image_loc": "/assets/css/imgs/1980s/Ultramagnetic MCs.jpg"
+      },
+      {
+        "Artist": "UTFO",
+        "image_loc": "/assets/css/imgs/1980s/UTFO.jpg"
+      },
+      {
+        "Artist": "Whistle",
+        "image_loc": "/assets/css/imgs/1980s/Whistle.jpg"
+      },
+      {
+        "Artist": "Whodini",
+        "image_loc": "/assets/css/imgs/1980s/Whodini.jpeg"
+      },
+      {
+        "Artist": "World Famous Supreme Team",
+        "image_loc": "/assets/css/imgs/1980s/World Famous Supreme Team.jpg"
+      },
+      {
+        "Artist": "Wu-Tang Clan",
+        "image_loc": "/assets/css/imgs/1990s/Wu-Tang Clan.jpeg"
+      },
+      {
+        "Artist": "XXXTencantion",
+        "image_loc": "/assets/css/imgs/2010+/XXXTencantion.jpg"
+      },
+      {
+        "Artist": "Young Dolph",
+        "image_loc": "/assets/css/imgs/2010+/Young Dolph.jpg"
+      },
+      {
+        "Artist": "Young Thug",
+        "image_loc": "/assets/css/imgs/2010+/Young Thug.jpg"
+      }
+    ]
+  }
